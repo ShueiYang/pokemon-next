@@ -1,0 +1,7 @@
+dist
+node_modules
+.next
+build
+theme-provider.tsx
+page.tsx
+loading.tsx
